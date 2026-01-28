@@ -348,11 +348,12 @@ st.sidebar.markdown("---")
 st.sidebar.info("""
 **About This App**
 
-This calculator uses the deviation formula method for multiple linear regression:
-- Accurate coefficient calculation
-- Proper R² computation
-- Interactive visualizations
-- Batch predictions
+Kalkulator regresi linier berganda ini dibuat untuk memudahkan analisis hubungan antar variabel menggunakan metode regresi:
+- Raka Farza Pratama
+- Rifqi Adam Safarudin
+- Hammam Arrizal
+
+Universitas Serang Raya (UNSERA) - Indonesia
 
 Built with Streamlit 🎈
 """)
